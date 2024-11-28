@@ -4,6 +4,7 @@
 
 # Intermediate Coverage file
 .coverage
+.pylintrc
 
 # Output files
 *.png
